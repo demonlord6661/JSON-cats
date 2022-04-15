@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cho {
+  background-color: bisque;
+}
+
+.po {
+  font-size: 4rem;
+}
+
+.po2 {
+  font-size: 1.5rem;
+}
+
+.po3 {
+  font-size: 1.5rem;
+  padding-top: 1rem;
+}
+
+.po4 {
+  font-size: 1.5rem;
+  padding-top: 1rem;
+}
+
+.catly {
+  height: 10rem;
+  width: 15rem;
+}
+
+.po5 {
+  font-size: 1.5rem;
+  padding-top: 5rem;
+}/*# sourceMappingURL=main.css.map */
